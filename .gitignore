@@ -1,0 +1,7 @@
+.vscode/
+frames/
+
+*.json
+*.txt
+
+!requirements.txt
